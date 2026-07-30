@@ -31,6 +31,8 @@ This repo contains a backup of my most-used skills, custom agent prompts, and in
 | pdf                       | <https://skills.sh/anthropics/skills/pdf>                                              | Read and process PDF files to pull content, summarize documents, or reuse source material in agent workflows. |
 | pptx                      | <https://skills.sh/anthropics/skills/pptx>                                             | Handle PowerPoint decks for slide extraction, generation, and presentation-content updates.                   |
 | xlsx                      | <https://skills.sh/anthropics/skills/xlsx>                                             | Work with Excel spreadsheets for reading tables, transforming data, and generating workbook outputs.          |
+| superpowers               | <https://github.com/obra/superpowers>                                                  | Spec driven dev framework                                                                                     |
+
 
 ## Copilot instructions
 
